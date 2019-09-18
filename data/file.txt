@@ -1,0 +1,2526 @@
+    1  ls
+    2  /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+    3  ls
+    4  cd Do
+    5  cd Documents
+    6  ls
+    7  cd Runa
+    8  mkdir Runa
+    9  ls
+   10  cd Runa
+   11  ls
+   12  mkdir core
+   13  cd core
+   14  ls
+   15  git clone https://github.com/runahr/saas-spa.git
+   16  ls
+   17  cd saas-spa
+   18  ls
+   19  code .
+   20  sudo nano .zshrc
+   21  ls
+   22  source .zshrc
+   23  ls
+   24  cd
+   25  cd .oh-my-zsh/themes
+   26  ls
+   27  sudo nano cobalt2.zsh-theme
+   28  ls
+   29  cd
+   30  sudo nano .zshrc
+   31  source .zshrc
+   32  clear
+   33  cd Documents/Runa
+   34  ls
+   35  cd core
+   36  ls
+   37  cd saas-spa
+   38  ls
+   39  code .
+   40  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.34.0/install.sh | bash
+   41  nvm --version
+   42  nvm install
+   43  nvm install 10
+   44  ls
+   45  npm -v
+   46  npm i -g create-react-app
+   47  cd Documents/Runa
+   48  ls
+   49  cd core
+   50  ls
+   51  cd saas-spa
+   52  ls
+   53  yarn install
+   54  brew install yarn
+   55  yarn install
+   56  ls
+   57  nvm install 10.15
+   58  yarn install
+   59  nvm uninstall 10.15
+   60  nvm install 10.15.1
+   61  yarn install
+   62  ls
+   63  npm start
+   64  yarn start
+   65  yarn install
+   66  yarn start
+   67  sudo nano /etc/hosts
+   68  yarn start
+   69  git checkout -b feature/runa-1811
+   70  yarn start
+   71  git add -A
+   72  git commit -m 'created a function to request files with token and download them'
+   73  git status
+   74  yarn start
+   75  brew install rbenv
+   76  ruby -v
+   77  rbenv install -l
+   78  rbenv install 2.5.5
+   79  git add -A
+   80  git commit -m 'falta la seccion promedio de variabloes imss, el resto ya descarga los files :smile: '
+   81  gem install rails -v 5.1.6.2
+   82  sudo gem install rails -v 5.1.6.2
+   83  rails -v
+   84  cd Documents/
+   85  ls
+   86  mkdir tries
+   87  cd tries
+   88  rails new rails_app
+   89  cd rails_app
+   90  rails s
+   91  git config --global user.name "oswaldinho24k"
+   92  git config --global user.email"oswalfut_96@hotmail.com"
+   93  cd Documents/tries/rails_app
+   94  code .
+   95  cd ..
+   96  ls
+   97  cd Runa
+   98  ls
+   99  cd core
+  100  ls
+  101  git clone https://github.com/runahr/saas-rails-api.git
+  102  ls
+  103  cd saas-rails-api
+  104  code .
+  105  rails s
+  106  cd Documents/Runa
+  107  cd core/saas-rails-api
+  108  ls
+  109  rails s
+  110  ruby -v
+  111  rbenv install 2.5.5
+  112  ls
+  113  ruby -v
+  114  rbenv hash
+  115  rbenv stash
+  116  rbenv global 2.5.5
+  117  ruby -v
+  118  rbenv rehash
+  119  ruby -v
+  120  ls
+  121  ls -la
+  122  ls
+  123  sudo nano .bash_profile
+  124  ls -la
+  125  rbenv global 2.5.5
+  126  rbenv rehash
+  127  ruby -v
+  128  ls
+  129  ruby -v
+  130  rbenv rehash
+  131  ruby -v
+  132  rbenv global 2.5.5
+  133  rbenv rehash
+  134  ruby -v
+  135  cd Documents/Runa/core
+  136  ls
+  137  cd saas-spa
+  138  ls
+  139  cd Documents/Runa/core/saas-rails-api
+  140  LS
+  141  RUBY -V
+  142  ruby -v
+  143  rbenv install -l
+  144  rbenv install 2.5.5
+  145  rbenv global 2.5.5
+  146  ruby -v
+  147  cat .bash_profile
+  148  rm .bash_profile
+  149  ls
+  150  nano .zshrc
+  151  source .zshrc
+  152  ruby -v
+  153  ruby -
+  154  ruby -v
+  155  cd Documents/Runa/core/saas-rails-api/
+  156  ls
+  157  rails s
+  158  gpg --keyserver hkp://keys.gnupg.net --recv-keys 409B6B1796C275462A1703113804BB82D39DC0E3 7D2BAF1CF37B13E2069D6956105BD0E739499BDB
+  159  brew install gnupg gnupg2\n
+  160  gpg --keyserver hkp://keys.gnupg.net --recv-keys 409B6B1796C275462A1703113804BB82D39DC0E3 7D2BAF1CF37B13E2069D6956105BD0E739499BDB
+  161  curl -sSL https://get.rvm.io | bash
+  162  gpg --keyserver hkp://keys.gnupg.net --recv-keys 409B6B1796C275462A1703113804BB82D39DC0E3 7D2BAF1CF37B13E2069D6956105BD0E739499BDB
+  163  curl -sSL https://get.rvm.io | bash -s stable --ruby
+  164  gpg --keyserver hkp://pool.sks-keyservers.net --recv-keys 409B6B1796C275462A1703113804BB82D39DC0E3 7D2BAF1CF37B13E2069D6956105BD0E739499BDB
+  165  curl -sSL https://get.rvm.io | bash -s stable --ruby
+  166  gpg --keyserver hkp://pool.sks-keyservers.net --recv-keys 409B6B1796C275462A1703113804BB82D39DC0E3 7D2BAF1CF37B13E2069D6956105BD0E739499BDB\n
+  167  ls
+  168  sudo nano ~/.zshrc
+  169  source ~/.zshrc
+  170  gpg --keyserver hkp://pool.sks-keyservers.net --recv-keys 409B6B1796C275462A1703113804BB82D39DC0E3 7D2BAF1CF37B13E2069D6956105BD0E739499BDB\n
+  171  gpg-connect-agent --dirmngr 'keyserver --hosttable'
+  172  gpg --keyserver hkp://pool.sks-keyservers.net --recv-keys 409B6B1796C275462A1703113804BB82D39DC0E3 7D2BAF1CF37B13E2069D6956105BD0E739499BDB\n
+  173  gpg --keyserver hkp://http://pgpkeys.eu/ --recv-keys 409B6B1796C275462A1703113804BB82D39DC0E3 7D2BAF1CF37B13E2069D6956105BD0E739499BDB\n
+  174  gpg --keyserver hkp://http://pgpkeys.eu --recv-keys 409B6B1796C275462A1703113804BB82D39DC0E3 7D2BAF1CF37B13E2069D6956105BD0E739499BDB\n
+  175  gpg --keyserver http://pgpkeys.eu --recv-keys 409B6B1796C275462A1703113804BB82D39DC0E3 7D2BAF1CF37B13E2069D6956105BD0E739499BDB\n
+  176  gpg --keyserver hkp://pgpkeys.eu --recv-keys 409B6B1796C275462A1703113804BB82D39DC0E3 7D2BAF1CF37B13E2069D6956105BD0E739499BDB\n
+  177  curl -sSL https://get.rvm.io | bash -s stable --ruby
+  178  ruby -v
+  179  ls
+  180  code .
+  181  rails s
+  182  rvm -v
+  183  rvm install ruby-2.5.5
+  184  rvm -v
+  185  rvm create runagemset
+  186  rvm gemset create runagemset
+  187  ls
+  188  gem install bundler
+  189  bundle install
+  190  ruby -v
+  191  rvm --ruby-version --create 2.5.5@saas-rails-api
+  192  rvm 2.5.5
+  193  rvm use 2.5.5
+  194  chsh -s /bin/zsh
+  195  rvm --ruby-version --create 2.5.5@saas-rails-api
+  196  sudo nano ~/.zshrc
+  197  source ~/.zshrc
+  198  rvm --ruby-version --create 2.5.5@saas-rails-api
+  199  gem install bundler
+  200  bundle install
+  201  ls
+  202  cd Downloads
+  203  ls
+  204  tar -zxvf mongodb-osx-ssl-x86_64-enterprise-4.0.11.tgz
+  205  tar -zxvf mongodb-osx-x86_64-enterprise-4.0.11.tgz
+  206  cd mongodb-osx-x86_64-enterprise-4.0.11
+  207  ls
+  208  cd bin
+  209  ls
+  210  cp * /local/usr/bin/
+  211  cp * /local/usr/bin
+  212  mv * /local/usr/bin/
+  213  mv * /local/usr/bin
+  214  ls
+  215  cp * .
+  216  ls
+  217  cd/usr/local/bin
+  218  cd/usr/local
+  219  cd /usr/local
+  220  ls
+  221  cd bin
+  222  ls
+  223  cp * /usr/local/bin
+  224  ls
+  225  mkdir -p /data/db
+  226  sudo mkdir -p /data/db
+  227  sudo chmod 777 /data/db
+  228  mongod
+  229  cd
+  230  mongod
+  231  mongo
+  232  mongod
+  233  mongo
+  234  psql
+  235  postgresql
+  236  psql
+  237  sudo su postgres
+  238  cd
+  239  ls
+  240  postgres
+  241  postgresql
+  242  brew services start postgresql
+  243  brew services restart postgresql
+  244  psql
+  245  gem install pg -v 1.1.4
+  246  bundle install
+  247  gem install pg -v '1.1.4'
+  248  gem install pg
+  249  sudo gem install pg
+  250  rails s
+  251  sudo find / -name “pg_config”
+  252  gem install pg -- --with-pg-config=/Applications/Postgres.app/Contents/Versions/latest/bin/pg_config\n
+  253  brew install redis
+  254  redis-server
+  255  ls
+  256  rails s
+  257  lsç
+  258  ls
+  259  code .
+  260  yarn start
+  261  nvm use 10.15
+  262  yarn start
+  263  nvm use 10.15.1
+  264  yarn start
+  265  git add -A
+  266  git commit -m 'already can download some files but not in all sections'
+  267  git push origin feature/runa-1811
+  268  rails s
+  269  which pg_config
+  270  postgres -V
+  271  postgres -v
+  272  sudo nano .zshrc
+  273  sudo nano ~/.zshrc
+  274  source ~/.zshrc
+  275  psql
+  276  cd /usr/local/
+  277  la
+  278  /Library/PostgreSQL/11/scripts/runpsql.sh; exit
+  279  cdç
+  280  cd
+  281  brew install postgres
+  282  brew install redis
+  283  postgres -v
+  284  postgres --version
+  285  psql
+  286  psql -u root
+  287  psql --help
+  288  psql root
+  289  psql --u root
+  290  psql postgres
+  291  sudo su postgres
+  292  psql postgres
+  293  psql postgres no_one
+  294  sudo -u postgres psql
+  295  bundle install
+  296  cd
+  297  clear
+  298  cd Documents/Runa/core
+  299  ls
+  300  git clone https://github.com/runahr/processes-dictionary.git
+  301  gem install rugged
+  302  ls
+  303  cd processes-dictionary
+  304  lsç
+  305  ls
+  306  cd onboarding\ process
+  307  ls
+  308  cd assets
+  309  ls
+  310  cd ..
+  311  brew install cmake 
+  312  bundle install
+  313  ls
+  314  rails s
+  315  mongod
+  316  brew services restart redis
+  317  rails s
+  318  rails db:mongoid:drop db:drop db:create db:migrate db:mongoid:create_indexes
+  319  brew services restart postgres
+  320  rails db:mongoid:drop db:drop db:create db:migrate db:mongoid:create_indexes
+  321  mongo
+  322  clear
+  323  cd Documents
+  324  ls
+  325  cd Runa
+  326  ls
+  327  cd core
+  328  cd saas-rails-api
+  329  rails s
+  330  rails db:mongoid:drop db:drop db:create db:migrate db:mongoid:create_indexes
+  331  bundle install
+  332  rails db:mongoid:drop db:drop db:create db:migrate db:mongoid:create_indexes
+  333  mongo
+  334  redis -server
+  335  redis-server
+  336  rails db:mongoid:drop db:drop db:create db:migrate db:mongoid:create_indexes
+  337  psql
+  338  sudo -u postgres psql
+  339  brew uninstall postgres
+  340  brew install postgres
+  341  rails db:mongoid:drop db:drop db:create db:migrate db:mongoid:create_indexes
+  342  brew services restart postgres
+  343  ls
+  344  rails db:mongoid:drop db:drop db:create db:migrate db:mongoid:create_indexes
+  345  psql
+  346  sudo -u postgres psql
+  347  sudo -u postgres createuser oswaldinho
+  348  psql oswaldinho
+  349  sudo -u postgres psql
+  350  psql --u oswaldinho
+  351  cd Documents/Runa/core
+  352  ls
+  353  cd saas-rails-api
+  354  ls
+  355  rails db:mongoid:drop db:drop db:create db:migrate db:mongoid:create_indexes
+  356  mongo
+  357  psql
+  358  sudo -u postgres psql
+  359  psql -U oswaldinho
+  360  brew uninstall postgres
+  361  psql
+  362  brew services postgres start
+  363  brew services restart postgres
+  364  brew install postgresql
+  365  brew services restart postgres
+  366  cd Documents/Runa
+  367  ls
+  368  cd core/saas-rails-api
+  369  rails db:mongoid:drop db:drop db:create db:migrate db:mongoid:create_indexes
+  370  rbenv global 2.5.5p157
+  371  rbenv install 2.5.5p157
+  372  brew update && brew upgrade ruby-build
+  373  rbenv install 2.5.5p157
+  374  rbenv install ´-l
+  375  rbenv install ç-l
+  376  rbenv install -l
+  377  rvm install ruby-2.5.5p157
+  378  ruby -v
+  379  bundle install
+  380  rails db:mongoid:drop db:drop db:create db:migrate db:mongoid:create_indexes
+  381  rbenv global 2.5.5p157
+  382  lol
+  383  rbenv rehash
+  384  rbenv global 2.5.5p157
+  385  rbenv install 2.5.5p157
+  386  brew update && brew upgrade ruby-build
+  387  rbenv install 2.5.5p157
+  388  rbenv global 2.5.5p157
+  389  ruby -v
+  390  ls
+  391  rvm --ruby-version --create 2.5.5p157@saas-rails-api
+  392  rvm install ruby-2.5.5p157
+  393  brew remove rbenv
+  394  rm -rf ~/.rbenv
+  395  sudo nano ~/.zshrc
+  396  source ~/.zshrc
+  397  ruby -v
+  398  ls
+  399  rvm install ruby-2.5.5p157
+  400  The requested url does not exist(22): 'https://cache.ruby-lang.org/pub/ruby/./ruby-2.5.5p157.tar.bz2'\nChecking fallback: https://ftp.ruby-lang.org/pub/ruby/./ruby-2.5.5p157.tar.bz2\nNo fallback URL could be found, try increasing timeout with:\n\n    echo "export rvm_max_time_flag=20" >> ~/.rvmrc\n\nThere has been an error fetching the ruby interpreter. Halting the installation.cd
+  401  cd
+  402  cd Documents/Runa/core/saas-rails-api
+  403  ls
+  404  rvm install ruby-2.5.5p157
+  405  rvm install ruby-2.5.5
+  406  rvm --ruby-version --create 2.5.5@saas-rails-api
+  407  rvm --ruby-version --create 2.5.5p157@saas-rails-api
+  408  rvm install ruby-2.5.5p157
+  409  nano ~/.zshrc
+  410  source ~/.zshrc
+  411  rvm install ruby-2.5.5p157
+  412  rvm list
+  413  bundle install
+  414  rails s
+  415  cd Documents/Runa/core
+  416  ls
+  417  cd saas-spa
+  418  git status
+  419  ls
+  420  ls -l
+  421  ls -la
+  422  rails s
+  423  brew uninstall ruby
+  424  ruby -v
+  425  gpg --keyserver hkp://keys.gnupg.net --recv-keys 409B6B1796C275462A1703113804BB82D39DC0E3 7D2BAF1CF37B13E2069D6956105BD0E739499BDB
+  426  gpg --keyserver hkp://pgpkeys.eu --recv-keys --recv-keys 409B6B1796C275462A1703113804BB82D39DC0E3 7D2BAF1CF37B13E2069D6956105BD0E739499BDB\n
+  427  curl -sSL https://get.rvm.io | bash -s stable --ruby
+  428  /home/oswaldinho24k/.rvm/scripts/rvm
+  429  cd /home/
+  430  ls
+  431  cd ..
+  432  cd
+  433  cd Documents/Runa/core/saas-rails-api
+  434  ls
+  435  rvm install ruby-2.5.5p157
+  436  rvm install ruby-2.5.5
+  437  rvm --ruby-version --create 2.5.5@saas-rails-api
+  438  gem install bundler
+  439  bundle install
+  440  figaro install
+  441  rails s
+  442  code .
+  443  git status
+  444  yarn start
+  445  nvm use 10.15.1
+  446  yarn start
+  447  rails db:mongoid:drop db:drop db:create db:migrate db:mongoid:create_indexes
+  448  brew uninstall rails
+  449  gem uninstall
+  450  gem uninstall rails
+  451  brew uninstall ruby
+  452  brew remove rbenv
+  453  rm -rf ~/.rbenv
+  454  nano ~/.zshrc
+  455  ruby -v
+  456  cd Documents
+  457  ls
+  458  cd Runa
+  459  ls
+  460  cd core/
+  461  ls
+  462  cd saas-rails-api
+  463  rvm -v
+  464  rails db:mongoid:drop db:drop db:create db:migrate db:mongoid:create_indexes
+  465  gem install rails
+  466  bundle install
+  467  rails db:mongoid:drop db:drop db:create db:migrate db:mongoid:create_indexes
+  468  code .
+  469  rails db:mongoid:drop db:drop db:create db:migrate db:mongoid:create_indexes
+  470  rvm implode
+  471  rm -rf ~/.rvm\n
+  472  sudo rm -rf ~/.rvm\n
+  473  nano ~/.zshrc
+  474  source ~/.zshrc
+  475  ls
+  476  rvm -v
+  477  rvm --version
+  478  gem uninstall rvm
+  479  rvm implode
+  480  rails s
+  481  ls
+  482  which ruby
+  483  ruby -v
+  484  ~/.rubies
+  485  whicj ruby
+  486  which ruby
+  487  cd /usr/bin
+  488  ls
+  489  rm -rf ruby
+  490  sudo rm -rf ruby
+  491  cd
+  492  rm -Rf ~/.rubies/ruby-2.5.5
+  493  rm -Rf ~/.rubies/ruby-2.5.5p157
+  494  ruby -v
+  495  rm -Rf ~/.rubies/ruby-2.3.7p456
+  496  ruby -v
+  497  cd Documents/Runa/core
+  498  ls
+  499  cd saas-rails-api
+  500  cd ..
+  501  rm -rf saas-rails-api
+  502  ls
+  503  ruby -v
+  504  brew uninstall ruby
+  505  which .installed
+  506  which .installed.list
+  507  rm ~/.rubies/ruby-2.3.7p157
+  508  gem
+  509  gem env
+  510  git clone https://github.com/runahr/saas-rails-api.git
+  511  cd saas-rails-api
+  512  rvm install ruby-2.5.5
+  513  curl -sSL https://get.rvm.io | bash -s stable --ruby
+  514  /Users/oswaldinho24k/.rvm/scripts/rvm
+  515  rvm install ruby-2.5.5
+  516  /Users/oswaldinho24k/.rvm/scripts/rvm
+  517  rvm --ruby-version --create 2.5.5@saas-rails-api
+  518  gem install bundler\n
+  519  bundle install
+  520  rails db:mongoid:drop db:drop db:create db:migrate db:mongoid:create_indexes
+  521  psql -U oswaldinho
+  522  git status
+  523  code .
+  524  redis-cli ping
+  525  mongo
+  526  brew uninstall postgresql
+  527  brew uninstall postgres
+  528  which postgres
+  529  psql
+  530  sudo /Library/PostgreSQL/9.1/uninstall-postgresql.app/Contents/MacOS/installbuilder.sh\n
+  531  sudo /Library/PostgreSQL/11/uninstall-postgresql.app/Contents/MacOS/installbuilder.sh\n
+  532  brew install postgresql
+  533  brew services postgres restart
+  534  brew services restart postgresql
+  535  rails db:mongoid:drop db:drop db:create db:migrate db:mongoid:create_indexes
+  536  rails s -p 5000
+  537  rails db:seed:review_app SEED_REGION_KEY=MEX SEED_COMPANY_NAME='JoalRob7' SEED_SUBDOMAIN=joalrob
+  538  rails s -p 5000
+  539  ff = FormField.sub_company.find_by(attribute_name: 'tax_regime')
+  540  ff = FormField.sub_company.find_by(attribute_name: 'tax_regime')\nff.form_field_validations.destroy_all
+  541  rails s -p 5000
+  542  cd Documents/Runa
+  543  lsç
+  544  ls
+  545  cd core
+  546  ls
+  547  cd saas-rails-api
+  548  ls
+  549  ruby -v
+  550  cd
+  551  ruby -v
+  552  cd Documents/Runa/core/saas-rails-api
+  553  rails c
+  554  git status
+  555  git add -A
+  556  git commit -m 'all files can be downloable in local env'
+  557  git checkout -b feature/runa-1510
+  558  git status
+  559  git pull origin feature/runa-1510
+  560  git checkout feature/runa-1811
+  561  git checkout -b runa-1510
+  562  git pull origin runa-1510
+  563  git status
+  564  yarn start
+  565  yarn install
+  566  yarn start
+  567  git status
+  568  git push origin runa-1510
+  569  yarn start
+  570  git add -A
+  571  git commit -m 'all tags change for span'
+  572  git push origin runa-1510
+  573  r ntl
+  574  yarn start
+  575  git add -A
+  576  git commit -m 'found more Files to download'
+  577  yarn start
+  578  rails s -p 5000
+  579  cd Documents/Runa
+  580  ls
+  581  mkdir onboarding
+  582  cd onboarding
+  583  mkdir reports
+  584  cd reports
+  585  touch
+  586  ls
+  587  touch salger.json
+  588  code .
+  589  git add -A
+  590  git commit -m 'still modifying some components that download files'
+  591  git push origin runa-150
+  592  git push origin runa-150 -f
+  593  git push origin runa-1510
+  594  yarn start
+  595  git add -A
+  596  git commit -m 'all files in the hole app can be donloaded, need review'
+  597  git push origin runa-1510
+  598  yarn start
+  599  git add -A
+  600  yarn start
+  601  git commit -m 'changed all anchors for spans'
+  602  git push origin runa-1510
+  603  git branch
+  604  git checkout develop
+  605  git checkout -b feature/downloable-secure-files
+  606  git merge runa-1510
+  607  git push origin feature/downloable-secure-files
+  608  git add -A
+  609  yarn start
+  610  git add -A
+  611  git commit -m 'changed all SVG Import of download Tags'
+  612  git add -A
+  613  git commit -m 'changed all SVG Import of download Tags'
+  614  git push origin feature/downloable-secure-files
+  615  python
+  616  od .e
+  617  t
+  618  code .
+  619  cd
+  620  cd Documents
+  621  ls
+  622  mkdir Learning
+  623  cd Learning/ç
+  624  cd Learning
+  625  ls
+  626  rails
+  627  rails new todolist --database=postgres
+  628  rails new todolist --database=postgresql
+  629  ls
+  630  cd todolist/
+  631  ls
+  632  rails g model todo title:string completed:boolean
+  633  code .
+  634  yarn start
+  635  git add -A
+  636  git commit -m 'user image dowsnt show'
+  637  git checkout develop
+  638  git pull origin develop
+  639  git checkout feature/downloable-secure-files
+  640  git merge develop
+  641  git add -A
+  642  git commit -m 'some svgs changed'
+  643  yarn start
+  644  git add -A
+  645  git commit -m 'validating user Icon Image'
+  646  git push origin feature/downloable-secure-files
+  647  git pull origin feature/downloable-secure-files
+  648  git commit -a
+  649  git push origin feature/downloable-secure-files
+  650  yarn start
+  651  git add -A
+  652  git commit -m 'validating user Icon Image'
+  653  git push origin feature/downloable-secure-files
+  654  cd Documents/Runa
+  655  ls
+  656  cd core
+  657  ls
+  658  cd saas-rails-api
+  659  sails s -p 5000
+  660  rails s -p 5000
+  661  cd Documents/Runa
+  662  ls
+  663  cd onboarding
+  664  ls
+  665  code .
+  666  yarn start
+  667  git add -A
+  668  git commit -m 'changing file type'
+  669  yarn start
+  670  rails s -p 5000
+  671  git status
+  672  git add -A
+  673  git commit -m 'a descargar updates'
+  674  git pull origin development
+  675  code .
+  676  ruby -v
+  677  rvm install ruby-2.6.3
+  678  rails s -p 5000
+  679  bundle install
+  680  bundle update --bundler
+  681  gem install bundler
+  682  bundle install
+  683  rails s -p 5000
+  684  git add -A
+  685  git commit -m 'setting the rigth names to the downloable files'
+  686  git add -A
+  687  git commit -m 'setting the rigth names to the downloable files'
+  688  git push origin feature/downloable-secure-files
+  689  yarn start
+  690  yarn coverage
+  691  yarn start
+  692  git add -A
+  693  git commit -m 'added the correct styles for spans that download files'
+  694  git push origin feature/downloable-secure-files
+  695  git pull origin feature/downloable-secure-files
+  696  git pull origin development
+  697  git pull origin develop
+  698  git commit -a
+  699  git pull origin feature/downloable-secure-files
+  700  git status
+  701  git add -A
+  702  git commit -m 'solved conflicts'
+  703  git pull origin feature/downloable-secure-files
+  704  git push origin feature/downloable-secure-files
+  705  yarn start
+  706  yarn install
+  707  yarn start
+  708  git add -A
+  709  git commit -m 'merging with dev'
+  710  git push origin feature/downloable-secure-files
+  711  ruby
+  712  echo puts 'kiubo' > script.rb
+  713  ruby script.rb
+  714  yarn test
+  715  code .
+  716  python3
+  717  python
+  718  git status
+  719  yarn start
+  720  cd Downloads
+  721  ls
+  722  sudo nano file.xml
+  723  git add -A
+  724  git commit -m 'solving some span styles'
+  725  git push origin feature/downloable-secure-files
+  726  code .
+  727  yarn start
+  728  ls
+  729  cd ..
+  730  ls
+  731  cd core
+  732  ls
+  733  cd saas-rails-api
+  734  code .
+  735  yarn start
+  736  rails s -p 5000
+  737  sudo nano ~/.zshrc
+  738  source ~/.zshrc
+  739  yarn start
+  740  cd
+  741  cd Documents
+  742  ls
+  743  cd Learning
+  744  LS
+  745  mkdir testing
+  746  cd testing
+  747  ls
+  748  touch simple.js
+  749  code .
+  750  node simple.js
+  751  node --require globals.js simple.js
+  752  ls
+  753  node --require globals.js simple.js
+  754  node --require globals.js
+  755  ls
+  756  node globals.js
+  757  node --require globals.js simple.js
+  758  node simple.js
+  759  git add -A
+  760  git commit -m 'renaming some downloable files'
+  761  git checkout develop
+  762  git pull origin develop
+  763  git checkout feature/downloable-secure-files
+  764  git merge develop
+  765  code .
+  766  yarn start
+  767  git add -A
+  768  git commit -m 'renamed all reports'
+  769  git push origin feature/downloable-secure-files
+  770  yarn start
+  771  git checkout develop
+  772  yarn start
+  773  git checkout develop
+  774  git status
+  775  git add -A
+  776  nano /etc/host
+  777  nano /etc/host/
+  778  nano /etc/hosts
+  779  nano /etc/host
+  780  nano /etc/hosts
+  781  cd
+  782  nano .zshrc
+  783  source .zshrc
+  784  CD Documents/Runa/core
+  785  LS
+  786  CD Documents
+  787  ls
+  788  cd Documents
+  789  ls
+  790  cd Runa
+  791  cd core/saas-spa
+  792  yarn start
+  793  rails s -p 5000
+  794  yarn start
+  795  nano ~/.zshrc
+  796  rails s
+  797  yarn start
+  798  rails s -p 5000
+  799  cd
+  800  cd Documents
+  801  ls
+  802  mkdir Oswaldinho
+  803  cd Oswaldinho
+  804  ls
+  805  git clone https://github.com/FixterGeek/amg-node-api.git
+  806  cd amg-node-api
+  807  ls
+  808  code .
+  809  git add -A
+  810  git commit -m 'changed api url'
+  811  yarn start
+  812  git add -A
+  813  git commit -m 'updating the backend RA'
+  814  git add -A
+  815  git commit -m 'updating the backend RA'
+  816  git push origin feature/downloable-secure-files
+  817  yarn start
+  818  lsof
+  819  lsof -i
+  820  kill 5000
+  821  sudo kill -9 $(sudo lsof -t -i:5000)
+  822  rails s -p 5000
+  823  yarn start
+  824  git add -A
+  825  git commit -m 'back RA is working and files download with the right name'
+  826  git push origin feature/downloable-secure-files
+  827  yarn start
+  828  git add -A
+  829  git commit -m 'changed the back RA'
+  830  git push origin feature/downloable-secure-files
+  831  yarn start
+  832  git status
+  833  git push origin feature/downloable-secure-files
+  834  yarn start
+  835  git checkout develop
+  836  git pull origin master
+  837  git checkout feature/downloable-secure-files
+  838  git merge develop
+  839  code .
+  840  git commit -a
+  841  git push origin feature/downloable-secure-files
+  842  yarn start
+  843  git add -A
+  844  git commit -m 'updated node and yarn versions '
+  845  git push origin feature/downloable-secure-files
+  846  yarn start
+  847  nvm install 10.16.2
+  848  nvm use 10.16.2
+  849  yarn start
+  850  git add -A
+  851  git commit -m 'variability step 3 file can be downloaded'
+  852  git push origin feature/downloable-secure-files
+  853  \tcd
+  854  cd Documents
+  855  ls
+  856  cd Learning
+  857  ls
+  858  cd testing
+  859  ls
+  860  code .
+  861  npx jest
+  862  ls
+  863  npm init
+  864  ls
+  865  npx jest
+  866  cd
+  867  cd Documents/Oswaldinho
+  868  ls
+  869  cd amg-node-api
+  870  git pull origin master
+  871  code .
+  872  ls
+  873  npm run dev
+  874  npm i -g nodemon
+  875  npm run dev
+  876  npm i
+  877  npm run dev
+  878  brew tap heroku/brew && brew install heroku
+  879  ls
+  880  heroku login
+  881  git status
+  882  git add -A
+  883  git commit -m 'push new avtivities to module and modules to event'
+  884  git push origin master
+  885  git push heroku master
+  886  heroku git:clone -a amg-api
+  887  git push heroku master
+  888  git remote 
+  889  git remote -v
+  890  git status
+  891  ls
+  892  cd amg-api
+  893  ls
+  894  cd ..
+  895  ls
+  896  rm -rf amg-api
+  897  git add -A
+  898  git commit -m 'lol'
+  899  git push origin master
+  900  heroku git:remote -v
+  901  git remote -v
+  902  git remote add heroku https://git.heroku.com/amg-api.git
+  903  git remote -v
+  904  git push heroku master
+  905  git add -A
+  906  git commit -m 'just populating modules'
+  907  git push heroku master
+  908  git push origin master
+  909  npm run dev
+  910  git status
+  911  git push origin master
+  912  git push heroku master
+  913  git status
+  914  git add -A
+  915  git commit -m 'lol'
+  916  git push origin master
+  917  npm run dev
+  918  git add -A
+  919  git commit -m 'populated modules ancd activities in modules'
+  920  git push origin master
+  921  git push heroku master
+  922  cd
+  923  clear
+  924  yarn start
+  925  cd Documents/Learning
+  926  ls
+  927  cd testing
+  928  ls
+  929  npx jest
+  930  cd
+  931  cd Documents/Runa/core
+  932  ls
+  933  saas-spa/
+  934  ls
+  935  yarn test
+  936  nvm use 10
+  937  yarn test
+  938  yarn coverage
+  939  yarn test
+  940  cd Documents/Learning
+  941  ls
+  942  git clone https://github.com/danielstern/isomorphic-react.git
+  943  cd isomorphic-react
+  944  npm install && npm run postinstall
+  945  ls
+  946  npm start
+  947  npm run start-dev
+  948  yarn test
+  949  yarn coverage --coverage
+  950  yarn start
+  951  git checkout develop
+  952  git status
+  953  git add -A
+  954  git commit -m 'starting test for downloable files'
+  955  git checkout develop
+  956  git pull origin develop
+  957  git checkout feature/downloable-secure-files
+  958  git merge develop
+  959  code .
+  960  yarn start
+  961  yarn coverage
+  962  yarn test
+  963  yarn coverage
+  964  yarn test
+  965  yarn coverage
+  966  yarn test
+  967  yarn coverage
+  968  yarn test p
+  969  yarn test
+  970  git status
+  971  git stash 
+  972  git status
+  973  code .
+  974  git checkout .
+  975  git status
+  976  git clone https://github.com/runahr/saas-rails-api.git
+  977  cd saas-rails-api
+  978  git status
+  979  git checkout feature/presign_url
+  980  git status
+  981  git merge development
+  982  git push origin feature/presign_url
+  983  git status
+  984  yarn start
+  985  rails s -p 5000
+  986  git add -A
+  987  git commit -m 'tests have been done successfuly :sunglasses:'
+  988  git add -A
+  989  git commit -m 'some other files were incorrectly named when downloading'
+  990  npm start
+  991  cd Documents/Oswaldinho
+  992  ls
+  993  cd amg-node-api
+  994  ls
+  995  git status
+  996  git pull origin master
+  997  npm run dev
+  998  code .
+  999  npm run dev
+ 1000  git add -A
+ 1001  git commit -m 'issues in post'
+ 1002  git push heroku master
+ 1003  git status
+ 1004  git add -A
+ 1005  git commit -m 'trying to visualize doc files'
+ 1006  git push origin feature/downloable-secure-files
+ 1007  yarn start
+ 1008  git add -A
+ 1009  git commit -m 'solved download totales por concepto, it wasnt downloading the file, and its reducer was modifying wrong the state'
+ 1010  git push origin feature/downloable-secure-files
+ 1011  code .
+ 1012  yarn start
+ 1013  ls
+ 1014  cd Documents
+ 1015  ls
+ 1016  cd tries
+ 1017  ls
+ 1018  mkdir fileconverter
+ 1019  cd fileconverter
+ 1020  npm init -y
+ 1021  code .
+ 1022  npm i --save docx-pdf
+ 1023  node app.js
+ 1024  ls
+ 1025  npm i var docxConverter = require('docx-pdf');\n\ndocxConverter('./doc.docx','./output.pdf',function(err,result){\n  if(err){\n    console.log(err);\n  }\n  console.log('result'+result);\n}AA
+ 1026  npm i docx-pdf
+ 1027  yarn start
+ 1028  npm uninstall docx-pdf
+ 1029  yarn start
+ 1030  git status
+ 1031  git pull origin feature/downloable-secure-files
+ 1032  yarn install
+ 1033  yarn start
+ 1034  cd ..
+ 1035  ls
+ 1036  rm -rf saas-spa
+ 1037  ls
+ 1038  git clone https://github.com/runahr/saas-spa.git
+ 1039  cd saas-spa
+ 1040  ls
+ 1041  git checkout feature/downloable-secure-files
+ 1042  git pull origin feature/downloable-secure-files
+ 1043  yarn install
+ 1044  yarn start
+ 1045  code .
+ 1046  yarn start
+ 1047  ls
+ 1048  cd ..
+ 1049  ls
+ 1050  mkdir viewerjs
+ 1051  cd viewerjs
+ 1052  touch index.html
+ 1053  code .
+ 1054  yarn add react-file-viewer
+ 1055  yarn start
+ 1056  code .
+ 1057  yarn start
+ 1058  git add -A
+ 1059  git commit -m 'added react file viewer to visualize the secured files in the app'
+ 1060  git pull origin feature/downloable-secure-files
+ 1061  git push origin feature/downloable-secure-files
+ 1062  yarn coverage
+ 1063  git add -A
+ 1064  git commit -m 'eliminated some logs'
+ 1065  git push origin feature/downloable-secure-files
+ 1066  yarn start
+ 1067  yarn coverage
+ 1068  git add -A
+ 1069  git status
+ 1070  git push origin feature/downloable-secure-files
+ 1071  git pull origin feature/downloable-secure-files
+ 1072  code .
+ 1073  yarn start
+ 1074  git add -A
+ 1075  git commit -m 'removed some logs'
+ 1076  git push origin feature/downloable-secure-files
+ 1077  ls
+ 1078  git status
+ 1079  cd
+ 1080  cd Documents/Oswaldinho
+ 1081  ls
+ 1082  cd amg-node-api
+ 1083  code .
+ 1084  npm run dev
+ 1085  cd Documents/Oswaldinho
+ 1086  ls
+ 1087  git clone https://github.com/FixterGeek/amg-frontend.git
+ 1088  cd
+ 1089  cd Documents/Runa
+ 1090  ls
+ 1091  cd core
+ 1092  ls
+ 1093  cd saas-spa
+ 1094  ls
+ 1095  yarn start
+ 1096  ls
+ 1097  cd Do
+ 1098  cd Documents
+ 1099  ls
+ 1100  cd Runa
+ 1101  ls
+ 1102  mkdir tries
+ 1103  cd tries
+ 1104  ls
+ 1105  git clone https://github.com/runahr/saas-spa.git
+ 1106  cd saas-spa
+ 1107  ls
+ 1108  git checkout feature/downloable-secure-files
+ 1109  ls
+ 1110  yarn build
+ 1111  npm install
+ 1112  yarn build
+ 1113  code .
+ 1114  yarn build
+ 1115  yarn start
+ 1116  git checkout develop
+ 1117  git status
+ 1118  git add -A
+ 1119  git commit -m 'not deploying'
+ 1120  git checkout develop
+ 1121  git pull origin develop
+ 1122  git checkout feature/downloable-secure-files
+ 1123  git merge develop
+ 1124  rm -rf yarn.lock
+ 1125  rm -rf node_modules
+ 1126  yarn add
+ 1127  npm install
+ 1128  yarn install
+ 1129  code .
+ 1130  yarn start
+ 1131  yarn build
+ 1132  code .
+ 1133  git add -A
+ 1134  git commit -m 'rewrite some css imports'
+ 1135  git push origin feature/downloable-secure-files
+ 1136  git status
+ 1137  ls
+ 1138  git ..
+ 1139  cd ..
+ 1140  git status
+ 1141  clear
+ 1142  cd
+ 1143  rails s -p 5000
+ 1144  code .
+ 1145  ruby -v
+ 1146  ruby
+ 1147  irb
+ 1148  cd Documents/tries
+ 1149  ls
+ 1150  cd
+ 1151  cd Documents
+ 1152  ls
+ 1153  cd Learning
+ 1154  ls
+ 1155  mkdir the_book_of_ruby
+ 1156  cd the_book_of_ruby
+ 1157  ls
+ 1158  code .
+ 1159  ruby hw.rb
+ 1160  git status
+ 1161  git checkout develop
+ 1162  git status
+ 1163  git checkout master
+ 1164  git pull origin master
+ 1165  git checkout -b hotfix/2088
+ 1166  code .
+ 1167  yarn start
+ 1168  cd Documents/Runa/core/saas-spa
+ 1169  git checkout feature/downloable-secure-files
+ 1170  git add -A
+ 1171  git commit -m 'set up api url'
+ 1172  git checkout feature/downloable-secure-files
+ 1173  cd
+ 1174  clear
+ 1175  yarn coverage
+ 1176  code .
+ 1177  cd Documents/Runa/core
+ 1178  ls
+ 1179  cd saas-spa
+ 1180  ls
+ 1181  cd coverage
+ 1182  ls
+ 1183  cd ..
+ 1184  yarn coverage
+ 1185  ls
+ 1186  git status
+ 1187  ls
+ 1188  git statu
+ 1189  git status
+ 1190  git checkout hotfix/2088
+ 1191  code .
+ 1192  yarn start
+ 1193  git status
+ 1194  git checkout feature/downloable-secure-files
+ 1195  code .
+ 1196  git add -A
+ 1197  git commit -m 'removed track list function'
+ 1198  git add -A
+ 1199  git status
+ 1200  git push origin feature/downloable-secure-files
+ 1201  git pull origin feature/downloable-secure-files
+ 1202  code .
+ 1203  git checkout develop
+ 1204  git pull origin develop
+ 1205  git checkout feature/downloable-secure-files
+ 1206  git merge develop
+ 1207  code .
+ 1208  git add -A
+ 1209  git commit -m 'solved conflicts with recent develop branch updates'
+ 1210  git push origin feature/downloable-secure-files
+ 1211  git checkout hotfix/2088
+ 1212  code .
+ 1213  yarn start
+ 1214  git add -A
+ 1215  git commit -m 'delete contribution shows error when its used :fire:'
+ 1216  git push origin hotfix/2088
+ 1217  git branch -m hotfix/RUNA-2088
+ 1218  git push origin :hotfix/2088 hotfix/RUNA-2088
+ 1219  irb
+ 1220  git status
+ 1221  git pull origin master
+ 1222  code .
+ 1223  git add -A
+ 1224  git commit -m 'RUNA-2088 resolved some conflicts with the fonts imports'
+ 1225  git push origin hotfix/RUNA-2088
+ 1226  yarn install
+ 1227  git status
+ 1228  git add -A
+ 1229  git commit -m 'RUNA-2088 yarn lock wasnt updating'
+ 1230  git push origin hotfix/RUNA-2088
+ 1231  git status
+ 1232  git pull origin master
+ 1233  code .
+ 1234  git commit -a
+ 1235  git push origin hotfix/RUNA-2088
+ 1236  git status
+ 1237  git checkout feature/downloable-secure-files
+ 1238  git status
+ 1239  git pull origin develop
+ 1240  code .
+ 1241  git commit -a
+ 1242  git push origin feature/downloable-secure-files
+ 1243  yarn install
+ 1244  git status
+ 1245  git add -A
+ 1246  git commit -m 'updated yarn'
+ 1247  git pull origin develop
+ 1248  git push origin feature/downloable-secure-files
+ 1249  git status
+ 1250  code .
+ 1251  cd ..
+ 1252  cdcd
+ 1253  ls
+ 1254  cd saas-rails-api
+ 1255  git status
+ 1256  git pull origin development
+ 1257  code .
+ 1258  git commit -a
+ 1259  git checkout -b feature/eventos-calendario
+ 1260  code .
+ 1261  git push origin feature/eventos-calendario
+ 1262  git status
+ 1263  git checkout hotfix/2088
+ 1264  git checkout hotfix/RUNA-2088
+ 1265  code .
+ 1266  cd
+ 1267  clear
+ 1268  lsof -i
+ 1269  lsof -i 5432
+ 1270  lsof -i
+ 1271  psql
+ 1272  git checkout feature/downloable-secure-files
+ 1273  code .
+ 1274  yarn start
+ 1275  git add -A
+ 1276  git commit -m 'solved issues when merging with develop'
+ 1277  git push origin feature/downloable-secure-files
+ 1278  code .
+ 1279  git status
+ 1280  git add -A
+ 1281  git commit -m 'about to start the new endpoints for events'
+ 1282  git push origin feature/eventos-calendario
+ 1283  git status
+ 1284  git pull origin develop
+ 1285  code .
+ 1286  git commit -a
+ 1287  yarn start
+ 1288  git push origin feature/downloable-secure-files
+ 1289  git status
+ 1290  git checkout develop
+ 1291  git pull origin develop
+ 1292  code .
+ 1293  yarn start
+ 1294  git checkout master
+ 1295  rails s -p 5000
+ 1296  git checkout development
+ 1297  rails s -p 5000
+ 1298  git pull origin development
+ 1299  git checkout master
+ 1300  git pull origin master
+ 1301  rails s -p 5000
+ 1302  bundle install
+ 1303  rails s -p 5000
+ 1304  rails db:mongoid:drop db:drop db:create db:migrate db:mongoid:create_indexes
+ 1305  rails db:seed:review_app SEED_REGION_KEY=MEX SEED_COMPANY_NAME='oswaldinho'
+ 1306  SEED_SUBDOMAIN=oswaldinho
+ 1307  rails s -p 5000
+ 1308  rails db:mongoid:drop db:drop db:create db:migrate db:mongoid:create_indexes
+ 1309  rails db:seed:review_app SEED_REGION_KEY=MEX SEED_COMPANY_NAME='oswaldinho' SEED_SUBDOMAIN=oswaldinho
+ 1310  rails s -p 5000
+ 1311  git status
+ 1312  git checkout hotfix/RUNA-2088
+ 1313  code .
+ 1314  yarn start
+ 1315  git add -A
+ 1316  git commit -m 'RUNA-2088 error message appears when trying to delete a contribution or deduction'
+ 1317  git push origin hotfix/RUNA-2088
+ 1318  cd Documents/Runa/core
+ 1319  ls
+ 1320  cd saas-rails-api
+ 1321  ls
+ 1322  code .
+ 1323  clear
+ 1324  psql
+ 1325  psql postgres
+ 1326  git checkout -b hotfix/RUNA-2316
+ 1327  git checkout master
+ 1328  git pull origin master
+ 1329  it checkout hotfix/RUNA-2316
+ 1330  git checkout hotfix/RUNA-2316
+ 1331  git merge master
+ 1332  code .
+ 1333  ls
+ 1334  rails s -p 5000
+ 1335  git checkout master
+ 1336  git pull origin master
+ 1337  code .
+ 1338  yarn start
+ 1339  git pull origin master
+ 1340  git checkout hotfix/RUNA-2088
+ 1341  git merge master
+ 1342  git add -A
+ 1343  git status
+ 1344  git push origin hotfix/RUNA-2088
+ 1345  yarn start
+ 1346  git checkout develop
+ 1347  git pull origin develop
+ 1348  code .
+ 1349  yarn start
+ 1350  git checkout feature/eventos-calendario
+ 1351  git fetch origin feature/eventos-calendario
+ 1352  git branch
+ 1353  git checkout -b feature/eventos-calendario
+ 1354  git pull origin feature/eventos-calendario
+ 1355  code .
+ 1356  yarn start
+ 1357  git checkout hotfix/RUNA-2088
+ 1358  git add -A
+ 1359  git commit -m 'checking local backend'
+ 1360  git checkout hotfix/RUNA-2088
+ 1361  code .
+ 1362  yarn start
+ 1363  code .
+ 1364  yarn start
+ 1365  code .
+ 1366  yarn start
+ 1367  git add -A
+ 1368  git commit -m 'RUNA-2088 changed Backend RA'
+ 1369  git push origin hotfix/RUNA-2088
+ 1370  ls
+ 1371  git checkout feature/eventos-calendario
+ 1372  code .
+ 1373  rails db:mongoid:drop db:drop db:create db:migrate db:mongoid:create_indexes
+ 1374  bundle install
+ 1375  gem list bundler
+ 1376  rails db:mongoid:drop db:drop db:create db:migrate db:mongoid:create_indexes
+ 1377  gem install bundler
+ 1378  rails db:mongoid:drop db:drop db:create db:migrate db:mongoid:create_indexes
+ 1379  rvm gemset create hotfix/RUNA-2316
+ 1380  rvm gemset create hotfix
+ 1381  rvm use hotfix
+ 1382  rvm use @hotfix
+ 1383  bundle install
+ 1384  gem install bundler
+ 1385  bundle install
+ 1386  rails db:mongoid:drop db:drop db:create db:migrate db:mongoid:create_indexes
+ 1387  mongo
+ 1388  mongod
+ 1389  sudo services mongo restart
+ 1390  mongod
+ 1391  rails db:mongoid:drop db:drop db:create db:migrate db:mongoid:create_indexes
+ 1392  rails db:seed:review_app SEED_REGION_KEY=MEX SEED_COMPANY_NAME=‘oswaldinho’ SEED_SUBDOMAIN=oswaldinho
+ 1393  rvm list
+ 1394  ruby -v
+ 1395  cd Documents/Runa/core/saas-rails-api
+ 1396  git status
+ 1397  clear
+ 1398  rails s -p 5000
+ 1399  rails c
+ 1400  rails s -p 5000
+ 1401  yarn start
+ 1402  code .
+ 1403  yarn start
+ 1404  rails s -p 5000
+ 1405  git checkout hotfix/RUNA-2088
+ 1406  code .
+ 1407  git status
+ 1408  git push origin hotfix/RUNA-2088
+ 1409  yarn start
+ 1410  git status
+ 1411  git pull origin hotfix/RUNA-2088
+ 1412  git status
+ 1413  git push origin hotfix/RUNA-2088
+ 1414  git pull origin master
+ 1415  git status
+ 1416  git push origin hotfix/RUNA-2088
+ 1417  rails s -p 5000
+ 1418  rails c
+ 1419  ls
+ 1420  git checkout master
+ 1421  git pull origin master
+ 1422  rails s -p 5000
+ 1423  git checkout hotfix/RUNA-2316
+ 1424  git merge master
+ 1425  rails s -p 5000
+ 1426  code .
+ 1427  rails s -p 5000
+ 1428  bin/rails db:migrate RAILS_ENV=development
+ 1429  rails s -p 5000
+ 1430  ls
+ 1431  git status
+ 1432  git checkout develop
+ 1433  code .
+ 1434  yarn start
+ 1435  git checkout master
+ 1436  git pull origin master
+ 1437  code .
+ 1438  git checkout -b hotfix/RUNA-2316
+ 1439  code .
+ 1440  yarn start
+ 1441  rails s -p 5000
+ 1442  yarn start
+ 1443  rails s
+ 1444  yarn start
+ 1445  rails s -p 5000
+ 1446  yarn start
+ 1447  cat .zshrc
+ 1448  sudo nano .zshrc
+ 1449  source .zshrc
+ 1450  rails s -p 5000
+ 1451  rails s 
+ 1452  yarn start
+ 1453  nano .zshrc
+ 1454  source .zshrc
+ 1455  rails s 
+ 1456  source .zshrc
+ 1457  rails s 
+ 1458  yarn start
+ 1459  rails s 
+ 1460  git pull origin master
+ 1461  code .
+ 1462  yarn start
+ 1463  nano .zshrc
+ 1464  source .zshrc
+ 1465  rails s -p 5000
+ 1466  yarn start
+ 1467  source .zshrc
+ 1468  nano .zshrc
+ 1469  source .zshrc
+ 1470  rails s -p 5000
+ 1471  nano .zshrc
+ 1472  source .zshrc
+ 1473  rails s -p 5000
+ 1474  git checkout develop
+ 1475  yarn start
+ 1476  git checkout -b hotfix/RUNA-2316
+ 1477  git checkout hotfix/RUNA-2316
+ 1478  rails c
+ 1479  rails s -p 5000
+ 1480  yarn start
+ 1481  QUEUE=* rake resque:work
+ 1482  cd
+ 1483  cd Documents/Runa/core/saas-spa
+ 1484  cd ..
+ 1485  cd saas-rails-api
+ 1486  rails s -p 5000
+ 1487  gem install bundler
+ 1488  rails s -p 5000
+ 1489  gem install bundler
+ 1490  bundle install
+ 1491  QUEUE=* rake resque:work
+ 1492  rails s -p 5000
+ 1493  sudo lsof -i tcp:5000 
+ 1494  rails s -p 5000
+ 1495  cd Documents/Runa/core/saas-rails-api
+ 1496  cd Documents/Runa/core/saas-spa
+ 1497  code .
+ 1498  rails s -p 5000
+ 1499  cd Documents/Runa/core/saas-rails-api
+ 1500  QUEUE=* rake resque:work
+ 1501  sudo lsof -iTCP -sTCP:LISTEN -P | grep :5000
+ 1502  rails s -p 5000
+ 1503  cd tmp
+ 1504  cd pids
+ 1505  ls
+ 1506  rm -rf server.pid
+ 1507  ls
+ 1508  cd ..
+ 1509  rails s -p 5000
+ 1510  ps aux
+ 1511  lsof -wni tcp:5000
+ 1512  kill -9 61664
+ 1513  kill -9 61801
+ 1514  lsof -wni tcp:5000
+ 1515  rails s -p 5000
+ 1516  QUEUE=* rake resque:work
+ 1517  yarn start
+ 1518  cd Documents/Runa/core
+ 1519  ls
+ 1520  cd saas-rails-api
+ 1521  rake resque:scheduler
+ 1522  rails s -p 5000
+ 1523  QUEUE=* rake resque:work
+ 1524  rake resque:scheduler
+ 1525  brew services restart postgresql
+ 1526  brew services restart redis
+ 1527  brew services restart mongo
+ 1528  mongod
+ 1529  mongo
+ 1530  mongod
+ 1531  lsof -wni tcp:27017
+ 1532  kill -9 27017
+ 1533  kill -9 22407
+ 1534  kill -9 27017
+ 1535  lsof -wni tcp:27017
+ 1536  mongod
+ 1537  rake resque:scheduler
+ 1538  QUEUE=* rake resque:work
+ 1539  rails s -p 5000
+ 1540  yarn start
+ 1541  rails db:mongoid:drop db:drop db:create db:migrate db:mongoid:create_indexes
+ 1542  rails db:seed:review_app SEED_REGION_KEY=MEX SEED_COMPANY_NAME='oswaldinho' SEED_SUBDOMAIN=oswaldinho
+ 1543  rails c
+ 1544  rails s -p 5000
+ 1545  QUEUE=* rake resque:work
+ 1546  rake resque:scheduler
+ 1547  yarn start
+ 1548  cd Documents/Runa/core/saas-rails-api
+ 1549  rails c
+ 1550  git checkout hotfix/RUNA-2088
+ 1551  code .
+ 1552  git checkout hotfix/RUNA-2316
+ 1553  code .
+ 1554  yarn start
+ 1555  cd Documents/Oswaldinho
+ 1556  ls
+ 1557  cd amg-node-api
+ 1558  git status
+ 1559  git pull origin master
+ 1560  code .
+ 1561  npm run dev
+ 1562  npm i --save conekta
+ 1563  npm run dev
+ 1564  git add -A
+ 1565  git commit -m 'added recursos'
+ 1566  git push origin master
+ 1567  git pull origin master
+ 1568  git push origin master
+ 1569  npm run dev
+ 1570  cd Documents/Oswaldinho
+ 1571  ls
+ 1572  cd amg-frontend
+ 1573  git status
+ 1574  git checkout develop
+ 1575  git status
+ 1576  git pull origin develop
+ 1577  code .
+ 1578  npm start
+ 1579  npm i
+ 1580  npm start
+ 1581  yarn start
+ 1582  git add -A
+ 1583  RUNA-2316 Serializer wasnt receiving the scope and because of that was throwing error
+ 1584  git commit -m "RUNA-2316 Serializer wasnt receiving the scope and because of that was throwing error"
+ 1585  git push origin hotfix/RUNA-2316
+ 1586  git add -A
+ 1587  git commit -m 'RUNA-2316 remove withespaces'
+ 1588  git push origin hotfix/RUNA-2316
+ 1589  git add -A
+ 1590  git commit -m 'RUNA-2316 remove withespaces'
+ 1591  git push origin hotfix/RUNA-2316
+ 1592  nano .gitignore
+ 1593  git add -A
+ 1594  git commit -m '[RUNA-2316] removed whitespaces'
+ 1595  git push origin hotfix/RUNA-2316
+ 1596  nano .gitignore
+ 1597  git status
+ 1598  git diff
+ 1599  git commit "[RUNA-2316] revert .env and .gitignore"
+ 1600  git commit -m "[RUNA-2316] revert .env and .gitignore"
+ 1601  git add -A
+ 1602  git commit -m "[RUNA-2316] revert .env and .gitignore"
+ 1603  git push origin hotfix/RUNA-2316
+ 1604  git 
+ 1605  git log
+ 1606  git pull origin master
+ 1607  git status
+ 1608  git push origin hotfix/RUNA-2316
+ 1609  rails s -p 5000
+ 1610  git add -A
+ 1611  git commit -m "[RUNA-2316] added specific scope name"
+ 1612  git push origin hotfix/RUNA-2316
+ 1613  rails s -p 5000
+ 1614  bundle exec rspec spec/serializers/payroll_employee_payrolls_serializer_spec.rb
+ 1615  git add -A
+ 1616  git commit -m '[RUNA-2316] returned to last solution, it passes al tests'
+ 1617  git push origin hotfix/RUNA-2316
+ 1618  git config --global user.name "oswaldinho24k"
+ 1619  git config --global user.email oswalfut_96@hotmail.com
+ 1620  clear
+ 1621  code .
+ 1622  bundle exec rspec spec/serializers/payroll_employee_payrolls_serializer_spec.rb
+ 1623  bundle exec rspec spec/serializers/payroll_employee_payrolls_serializer_spec.rb:33
+ 1624  bundle exec rspec spec/serializers/payroll_employee_payrolls_serializer_spec.rb
+ 1625  rubocop spec/serializers
+ 1626  rubocop spec/serializers -a
+ 1627  git add -A
+ 1628  git commit -m "[RUNA-2316] improved solution and corrected the tests"
+ 1629  git push origin hotfix/RUNA-2316
+ 1630  rubocop spec/serializers
+ 1631  git add -A
+ 1632  git commit -m "[RUNA-2316] improved solution and corrected the tests"
+ 1633  git push origin hotfix/RUNA-2316
+ 1634  cd
+ 1635  clear
+ 1636  cd Documents
+ 1637  ls
+ 1638  cd tries
+ 1639  ls
+ 1640  cd ..
+ 1641  cd Runa
+ 1642  ls
+ 1643  mkdir learning
+ 1644  cd ..
+ 1645  cd tries
+ 1646  ls
+ 1647  cd rails_app
+ 1648  ls
+ 1649  cd ..
+ 1650  rails new my blog
+ 1651  code .
+ 1652  ls
+ 1653  cd my
+ 1654  ls
+ 1655  code .
+ 1656  ls
+ 1657  rails -s
+ 1658  rails s
+ 1659  bundle
+ 1660  rails generate simple_form:install
+ 1661  bundle
+ 1662  rails s
+ 1663  guard init livereload
+ 1664  bundle exec guard
+ 1665  rails g controller posts
+ 1666  rails s
+ 1667  rails g model Post title:string content:text published:boolean
+ 1668  rails s
+ 1669  bin/rails db:migrate RAILS_ENV=development
+ 1670  rails s
+ 1671  rake routes
+ 1672  rails s
+ 1673  rails s -p 5000
+ 1674  yarn start
+ 1675  git add -A
+ 1676  git commit -m '[RUNA-2316] just to test the backend'
+ 1677  git push origin hotfix/RUNA-2316
+ 1678  code .
+ 1679  git add -A
+ 1680  git commit -m '[RUNA-2316] added backend RA'
+ 1681  git push origin hotfix/RUNA-2316
+ 1682  rails s
+ 1683  rails g controller comments
+ 1684  rails s
+ 1685  rails -v
+ 1686  rails g model Comment name:string comment:string
+ 1687  rails db:migrate
+ 1688  rails g migration AddPostIdToComments
+ 1689  rails db:migrate
+ 1690  rails g migration AddPostIdToComments
+ 1691  rails db:migrate
+ 1692  rails s
+ 1693  rails db:migrate
+ 1694  rails s
+ 1695  rails db:rollback
+ 1696  rails db:migrate
+ 1697  rails s
+ 1698  git add -A
+ 1699  git commit -m 'finished very first super basic ruby on rails app'
+ 1700  git remote add origin https://github.com/Oswaldinho24k/ruby-on-rails-basic-blog.git
+ 1701  git push origin master
+ 1702  rails s
+ 1703  git status
+ 1704  git checkout develop
+ 1705  git status
+ 1706  git pull origin develop
+ 1707  git status
+ 1708  git checkout development
+ 1709  git pull origin development
+ 1710  code .
+ 1711  bundle exec pronto-undercover
+ 1712  undercover
+ 1713  bundle exec undercover
+ 1714  bundle exec pronto run undercover 
+ 1715  bundle exec pronto run undercover -c development
+ 1716  git checkout feature/RUNA-2266
+ 1717  git checkout -b feature/RUNA-2266
+ 1718  git pull origin hotfix/runa-2266
+ 1719  git pull origin feature/RUNA-2266
+ 1720  git checkout develop
+ 1721  git pull checkout feature/eventos-calendario
+ 1722  git checkout feature/eventos-calendario
+ 1723  git pull origin feature/eventos-calendario
+ 1724  git checkout feature/eventos-calendario
+ 1725  git status
+ 1726  code .
+ 1727  rails s -p 5000
+ 1728  code .
+ 1729  yarn start
+ 1730  git status
+ 1731  git stash
+ 1732  git status
+ 1733  git pull origin master
+ 1734  git log
+ 1735  git checkout 747556708e1d10c50b340fe5c912ca64fd89a856
+ 1736  git status
+ 1737  git pull origin feature/eventos-calendario
+ 1738  code .
+ 1739  cd ..
+ 1740  rails new hu
+ 1741  cd hu
+ 1742  rails s
+ 1743  code .
+ 1744  rails s
+ 1745  cd Documents/Runa/
+ 1746  ls
+ 1747  cd tries
+ 1748  ls
+ 1749  cd ..
+ 1750  cd tries
+ 1751  cd hu
+ 1752  rails g controller home index
+ 1753  git status
+ 1754  git add -A
+ 1755  git commit -m '[feature/eventos-calendario] starting to organize the new filters'
+ 1756  git checkout hotfix/RUNA-2088
+ 1757  git checkout hotfix/RUNA-2316
+ 1758  git status
+ 1759  git pull origin master
+ 1760  rails s
+ 1761  rails s -p 5000
+ 1762  cd
+ 1763  cd Documents/Oswaldinho
+ 1764  ls
+ 1765  cd amg-node-api
+ 1766  ls
+ 1767  git status
+ 1768  git pull origin master
+ 1769  npm run dev
+ 1770  git status
+ 1771  git push origin master
+ 1772  git push heroku master
+ 1773  code .
+ 1774  git add -A
+ 1775  git commit -m 'comments'
+ 1776  gi tpush origin master
+ 1777  git push origin master
+ 1778  git push heroku master
+ 1779  heroku ps:restart
+ 1780  heroku restart
+ 1781  heroku ps:stop
+ 1782  heroku ps:stop web
+ 1783  heroku ps:restart
+ 1784  heroku ps:start web
+ 1785  r
+ 1786  heroku ps:start web
+ 1787  heroku ps:restart web
+ 1788  heroku run npm start
+ 1789  heroku restart
+ 1790  heroku ps:stop web
+ 1791  heroku builds:cancel -a amg-api
+ 1792  heroku plugins:install heroku-builds
+ 1793  heroku builds:cancel -a amg-api
+ 1794  heroku builds:cancel d7e831c6-0b69-48d6-9946-a988abe3aadd -a amg-api
+ 1795  heroku ps
+ 1796  heroku ps:restart
+ 1797  heroku ps:web
+ 1798  git push heroku master
+ 1799  cd Documents
+ 1800  ls
+ 1801  cd Oswaldinho
+ 1802  ls
+ 1803  mkdir save
+ 1804  cd save
+ 1805  git clone https://github.com/FixterGeek/amg-node-api.git
+ 1806  cd amg-node-api
+ 1807  rm -rf .git
+ 1808  ls
+ 1809  git init
+ 1810  git add -A
+ 1811  git commit -m 'nuevo server'
+ 1812  heroku create amg-api-2
+ 1813  git push heroku master
+ 1814  heroku builds:cancel -a amg-api
+ 1815  heroku builds:cancel -a amg-api-2
+ 1816  git push heroku master
+ 1817  rake resque:scheduler
+ 1818  QUEUE=* rake resque:work
+ 1819  mongod
+ 1820  code .
+ 1821  git status
+ 1822  git checkout feature/eventos-calendario
+ 1823  git status
+ 1824  git pull origin feature/eventos-calendario
+ 1825  git checkout feature/eventos-calendario
+ 1826  code .
+ 1827  rails s -p 5000
+ 1828  cd Documents/Runa/core/saas-rails-api
+ 1829  rails c
+ 1830  yarn start
+ 1831  git pull origin feature/eventos-calendario
+ 1832  code .
+ 1833  git checkout develop
+ 1834  git status
+ 1835  code .
+ 1836  git commit -a
+ 1837  git checkout develop
+ 1838  code .
+ 1839  git status
+ 1840  git stash
+ 1841  git checkout development
+ 1842  rails s -p 5000
+ 1843  bundle install
+ 1844  code .
+ 1845  rails s -p 5000
+ 1846  yarn start
+ 1847  git checkout feature/downloable-secure-files
+ 1848  git commit -a
+ 1849  git checkout feature/downloable-secure-files
+ 1850  git status
+ 1851  git add -A
+ 1852  git stash
+ 1853  git pull origin develop
+ 1854  git checkout feature/downloable-secure-files
+ 1855  git merge develop
+ 1856  code .
+ 1857  git commit -a
+ 1858  git push origin feature/downloable-secure-files
+ 1859  ls
+ 1860  git checkout feature/eventos-calendario
+ 1861  rails s -p 5000
+ 1862  code .
+ 1863  rails c
+ 1864  rails c -sandbox
+ 1865  rails c
+ 1866  git add -A
+ 1867  git commit -m added requests filter by status, date range and request type
+ 1868  git push origin feature/eventos-calendario
+ 1869  git pull origin development
+ 1870  git status
+ 1871  git commit -a
+ 1872  git add -A
+ 1873  git commit -m added requests filter by status, date range and request type
+ 1874  git status
+ 1875  git commit -m "added requests filter by status, date range and request type"
+ 1876  git status
+ 1877  git pull origin development
+ 1878  git push origin feature/eventos-calendario
+ 1879  rubocop -a
+ 1880  git status
+ 1881  git stash
+ 1882  git status
+ 1883  pronto run -c origin/development
+ 1884  rubocop spec/models/request_spec.rb
+ 1885  pronto run -c origin/development
+ 1886  rubocop app/controllers/v1/requests_controller.rb
+ 1887  rubocop app/controllers/v1/requests_controller.rb -a
+ 1888  rubocop app/models/request.rb
+ 1889  rubocop app/models/request.rb -a
+ 1890  rubocop app/controllers/api_v1_controller.rb
+ 1891  rubocop app/controllers/api_v1_controller.rb -a
+ 1892  pronto run -c origin/development
+ 1893  git status
+ 1894  git add -A
+ 1895  git commit -m 'correcting some syntax issues'
+ 1896  git push origin feature/eventos-calendario
+ 1897  rails s -p 5000
+ 1898  rvm install 2.6.4
+ 1899  rails s -p 5000
+ 1900  bundle install
+ 1901  bundler -v
+ 1902  gem install bundler:2.0.2
+ 1903  bundle install
+ 1904  rails s -p 5000
+ 1905  db:migrate RAILS_ENV=development
+ 1906  bin/rails db:migrate RAILS_ENV=development
+ 1907  rails s -p 5000
+ 1908  git status
+ 1909  git commit -a
+ 1910  git checkout master
+ 1911  git stash
+ 1912  git checkout master
+ 1913  git pull origin master
+ 1914  rails s -p 5000
+ 1915  rvm install 2.6.4
+ 1916  rvm use 2.6.3
+ 1917  rails s -p 5000
+ 1918  bundle install
+ 1919  rails s -p 5000
+ 1920  git checkout feature/eventos-calendario
+ 1921  ruby -v
+ 1922  git pull origin development
+ 1923  rails s -p 5000
+ 1924  rvm use 2.6.4
+ 1925  rails s -p 5000
+ 1926  psql
+ 1927  postgres
+ 1928  postgresql
+ 1929  sudo su postgres
+ 1930  postgresql -u root
+ 1931  postgres -u root
+ 1932  psql postgres
+ 1933  psql postgres -U oswaldinho
+ 1934  rails c
+ 1935  rvm use 2.6.4
+ 1936  rails c
+ 1937  cd Documents
+ 1938  ls
+ 1939  cd tries
+ 1940  ls
+ 1941  rails new blogini
+ 1942  cd blogini
+ 1943  ls
+ 1944  rails s -p 5000
+ 1945  rails s
+ 1946  rails generate controller Welcome index
+ 1947  code .
+ 1948  rails s
+ 1949  rails routes
+ 1950  rails generate controller Articles
+ 1951  rails s
+ 1952  rails generate model Article title:string text:text\n
+ 1953  rails db:migrate
+ 1954  rails s
+ 1955  curl -s -L https://raw.githubusercontent.com/keroserene/rickrollrc/master/roll.sh | bash
+ 1956  cowsay
+ 1957  brew install cowsay
+ 1958  cowsay que pedo
+ 1959  cowsay saca los chochos
+ 1960  rails generate model Comment commenter:string body:text article:references
+ 1961  rails db:migrate
+ 1962  rails generate controller Comments
+ 1963  rails s -p 5000
+ 1964  git add -A
+ 1965  git commit -m 'can filter if anniversary or birthday or request'
+ 1966  git push origin feature/eventos-calendario
+ 1967  rails s -p 5000
+ 1968  yarn start
+ 1969  git pull origin feature/eventos-calendario
+ 1970  yarn start
+ 1971  kill -9 5000
+ 1972  lsof -wni tcp:5000
+ 1973  kill -9 96870
+ 1974  lsof -wni tcp:5000
+ 1975  kill -9 96870
+ 1976  kill -9 97785
+ 1977  rails s -p 5000
+ 1978  rails c
+ 1979  rails s -p 5000
+ 1980  git pull origin feature/eventos-calendario
+ 1981  rails s -p 5000
+ 1982  git status
+ 1983  git add -A
+ 1984  rubocop app/controllers/api_v1_controller.rb -a
+ 1985  rubocop app/controllers/v1/requests_controller.rb -a
+ 1986  rubocop app/models/request.rb -a
+ 1987  git add -A
+ 1988  git commit -m 'finished basic filters'
+ 1989  git push origin feature/eventos-calendario
+ 1990  git status
+ 1991  rails s -p 5000
+ 1992  git pull origin feature/eventos-calendario
+ 1993  yarn start
+ 1994  git pull origin feature/eventos-calendario
+ 1995  ls
+ 1996  yarn start
+ 1997  rails s -p 5000
+ 1998  rails c
+ 1999  rails s -p 5000
+ 2000  [3] pry(main)> exit\n➜  saas-rails-ap
+ 2001  rails c
+ 2002  git pull origin feature/eventos-calendario
+ 2003  git status
+ 2004  git add -A
+ 2005  git commit -m 'request serializer has some issue, had to parse different'
+ 2006  git push origin feature/eventos-calendario
+ 2007  rails s -p 5000
+ 2008  yarn start
+ 2009  git pull origin feature/eventos-calendario
+ 2010  code .
+ 2011  git status
+ 2012  git stash
+ 2013  git pull origin feature/eventos-calendario
+ 2014  yarn start
+ 2015  rails s -p 5000
+ 2016  git pull origin feature/eventos-calendario
+ 2017  rails s -p 5000
+ 2018  yarn start
+ 2019  git log
+ 2020  git reset --hard cbcf53652f6d3a7a7b8049a0603e14bbf2b368d6
+ 2021  yarn start
+ 2022  git status
+ 2023  git log
+ 2024  yarn start
+ 2025  git status
+ 2026  git log
+ 2027  git add -A
+ 2028  git commit -m 'request serializer has some issue, had to parse different'
+ 2029  git push origin feature/eventos-calendario
+ 2030  rails s -p 5000
+ 2031  git log
+ 2032  git reset --hard 830e59b70ac84d7c3fd2a665bf55f06d8cbec5d3
+ 2033  rails s -p 5000
+ 2034  yarn start
+ 2035  cd
+ 2036  ls
+ 2037  nano .zshrc
+ 2038  cat /etc/hosts
+ 2039  ccd Documents/Runa/core/saas-rails-api
+ 2040  cd Documents/Runa/core/saas-rails-api
+ 2041  cd Documents/Runa/core/saas-spa
+ 2042  code .
+ 2043  yarn start
+ 2044  rails s -p 5000
+ 2045  bundle install
+ 2046  gem install bundler:2.0.2
+ 2047  bundle install
+ 2048  rails s -p 5000
+ 2049  yarn start
+ 2050  mongod
+ 2051  rails s -p 5000
+ 2052  QUEUE=* rake resque:work
+ 2053  rake resque:scheduler
+ 2054  yarn install
+ 2055  yarn start
+ 2056  git pull origin feature/eventos-calendario
+ 2057  code .
+ 2058  git log
+ 2059  git pull origin feature/eventos-calendario
+ 2060  git status
+ 2061  rails s -p 5000
+ 2062  yarn start
+ 2063  rails s -p 5000
+ 2064  cd Documents/Runa/core
+ 2065  ls
+ 2066  cd saas-rails-api
+ 2067  ls
+ 2068  rails c
+ 2069  rails s -p 5000
+ 2070  lsof -wni tcp:5000
+ 2071  kill -9 22490
+ 2072  kill -9 22495
+ 2073  rails s -p 5000
+ 2074  mongod
+ 2075  rake resque:scheduler
+ 2076  QUEUE=* rake resque:work
+ 2077  rails s -p 5000
+ 2078  code .
+ 2079  git add -A
+ 2080  git commit -m 'added date filter to birthdays'
+ 2081  git push origin feature/eventos-calendario
+ 2082  git pull origin feature/eventos-calendario
+ 2083  rails s -p 5000
+ 2084  QUEUE=* rake resque:work
+ 2085  rake resque:scheduler
+ 2086  git add -A
+ 2087  git commit -m 'created query objects for anniversaries, birthdates and requests'
+ 2088  git push origin feature/eventos-calendario
+ 2089  rubocop app/models/request.rb -a
+ 2090  rubocop app/controllers/v1/requests_controller.rb -a
+ 2091  rubocop app/controllers/api_v1_controller.rb -a
+ 2092  rubocop app/models/request.rb -a
+ 2093  rubocop app/queries/request_query.rb -a
+ 2094  rubocop app/queries/birthday_query.rb -a
+ 2095  rubocop app/queries/anniversary_query.rb -a
+ 2096  git add -A
+ 2097  git commit -m 'added rubocop corrections'
+ 2098  git push origin feature/eventos-calendario
+ 2099  git pull origin feature/eventos-calendario
+ 2100  yarn start
+ 2101  rails s -p 5000
+ 2102  cd ..
+ 2103  cd saas-spa
+ 2104  code .
+ 2105  git stash
+ 2106  git status
+ 2107  rails s -p 5000
+ 2108  git add -A
+ 2109  git commit -m 'finished query objects with all filters, range date filter for anniversaries and birthdays may improve'
+ 2110  git push origin feature/eventos-calendario
+ 2111  git pull origin development
+ 2112  code .
+ 2113  git commit -a
+ 2114  git push origin feature/eventos-calendario
+ 2115  rails s -p 5000
+ 2116  bundle install
+ 2117  rails s -p 5000
+ 2118  bin/rails db:migrate RAILS_ENV=development
+ 2119  rails s -p 5000
+ 2120  lsof -wni tcp:5000
+ 2121  kill -9 9869
+ 2122  rails s -p 5000
+ 2123  git status
+ 2124  git checkout develop
+ 2125  git pull origin develop
+ 2126  yarn start
+ 2127  yarn install
+ 2128  yarn start
+ 2129  git checkout feature/eventos-calendario
+ 2130  yarn start
+ 2131  git pull origin feature/eventos-calendario
+ 2132  yarn install
+ 2133  yarn start
+ 2134  git pull origin feature/eventos-calendario
+ 2135  yarn start
+ 2136  rubocop app/queries/anniversary_query.rb -a
+ 2137  rubocop app/queries/request_query.rb -a
+ 2138  rubocop app/queries/birthday_query.rb -a
+ 2139  git add -A
+ 2140  git commit -m 'added date range filter without year for anniversaries and birthdays'
+ 2141  git push origin feature/eventos-calendario
+ 2142  rails s -p 5000
+ 2143  rubocop spec/models/request_spec.rb
+ 2144  spec spec/queries/performance/reviews_query_spec.rb
+ 2145  rspec spec/queries/performance/reviews_query_spec.rb
+ 2146  cd
+ 2147  cd Documents/Oswaldinho
+ 2148  ls
+ 2149  git clone https://github.com/jairogarcia85/dufry.git
+ 2150  npm i -g firebase-tools
+ 2151  cd dufry
+ 2152  code .
+ 2153  git add -A
+ 2154  git commit -m 'validate phone'
+ 2155  git push origin master
+ 2156  cd
+ 2157  clear
+ 2158  cd Documents/Oswaldinho/dufry
+ 2159  npm start
+ 2160  npm install
+ 2161  npm start
+ 2162  git add -A
+ 2163  git commit -m 'phone validation'
+ 2164  git pull origin master
+ 2165  git push origin master
+ 2166  npm run build
+ 2167  git add -A
+ 2168  git commit -m 'analytics in public'
+ 2169  firebase deploy
+ 2170  firebase login
+ 2171  firebase deploy
+ 2172  clear
+ 2173  cd
+ 2174  clear
+ 2175  cd Documents/Oswaldinho/dufry
+ 2176  ls
+ 2177  code .
+ 2178  QUEUE=* rake resque:work
+ 2179  cd Documents/Runa/core/saas-rails-api
+ 2180  QUEUE=* rake resque:work
+ 2181  cd
+ 2182  cd Documents/Runa/core/saas-rails-api
+ 2183  ls
+ 2184  cd
+ 2185  cd Documents/Runa/tries
+ 2186  ls
+ 2187  rm -rf saas-spa
+ 2188  mkdir rspec_testing
+ 2189  cd rspec_testing
+ 2190  gem install rspec
+ 2191  rspec -v
+ 2192  code -
+ 2193  code .
+ 2194  rspec card.rb
+ 2195  rspec --color card.rb
+ 2196  rspec card.rb
+ 2197  cd Documents/Oswaldinho/dufry
+ 2198  ls
+ 2199  git pull origin master
+ 2200  code .
+ 2201  git add -A
+ 2202  git commit -m 'change to spanish text'
+ 2203  git push origin master
+ 2204  npm run build
+ 2205  code .
+ 2206  firebase deploy
+ 2207  yarn start
+ 2208  git status
+ 2209  git add -A
+ 2210  rubocop app/queries/birthday_query.rb -a
+ 2211  rubocop app/queries/request_query.rb -a
+ 2212  rubocop app/queries/anniversary_query.rb -a
+ 2213  rubocop app/controllers/v1/requests_controller.rb -a
+ 2214  rubocop app/controllers/api_v1_controller.rb -a
+ 2215  rubocop app/models/request.rb -a
+ 2216  git add -A
+ 2217  git commit -m 'last corrections to start creating tests'
+ 2218  git push origin feature/eventos-calendario
+ 2219  cd
+ 2220  cd Documents
+ 2221  cd Runa
+ 2222  cd tries
+ 2223  ls
+ 2224  python3 -m venv djangoredshift
+ 2225  cd djangoredshift
+ 2226  source bin/activate
+ 2227  pip install django
+ 2228  pip install --upgrade pip
+ 2229  ls
+ 2230  django-admin startproject runitos
+ 2231  ls
+ 2232  cd runitos
+ 2233  ls
+ 2234  code .
+ 2235  manage.py startapp posts
+ 2236  ./manage.py startapp posts
+ 2237  pip install psycopg2
+ 2238  brew install postgresql
+ 2239  brew upgrade postgresql
+ 2240  pip install psycopg2
+ 2241  brew services restart postgresql
+ 2242  ls
+ 2243  pip install psycopg2
+ 2244  which pg_config
+ 2245  cd /usr/local/bin/pg_config
+ 2246  cd /usr/local/bin/
+ 2247  ls
+ 2248  cat pg_config
+ 2249  cd
+ 2250  cd Documents/Runa/tries/djangoredshift
+ 2251  ls
+ 2252  cd runitos
+ 2253  ls
+ 2254  export PATH=$PATH:/Applications/Postgres.app/Contents/Versions/9.4/bin/
+ 2255  pip install psycopg2
+ 2256  cd Documents/Runa/tries/djangoredshift/runitos
+ 2257  ls
+ 2258  source ../bin/activate
+ 2259  pip install psycopg2
+ 2260  brew install openssl
+ 2261  brew reinstall openssl
+ 2262  pip install psycopg2
+ 2263  brew link openssl
+ 2264  which pg_config
+ 2265  export PATH=”/usr/local/bin:/Library/PostgreSQL/9.6/bin:$PATH”
+ 2266  echo $PATH
+ 2267  pip install psycopg2
+ 2268  export PATH=$PATH:/Applications/Postgres.app/Contents/Versions/9.3/bin/
+ 2269  pip install psycopg2
+ 2270  pip install psycopg2-binary
+ 2271  ./manage.py runserver
+ 2272  ./manage.py makemigrations
+ 2273  ./manage.py migrate
+ 2274  pip install django-redshift-backend
+ 2275  ./manage.py migrate
+ 2276  pip install psycopg2
+ 2277  ./manage.py migrate
+ 2278  ./manage.py createsuperuser
+ 2279  ./manage.py runserver
+ 2280  ./manage.py migrate
+ 2281  ./manage.py migrate default
+ 2282  ./manage.py migrate --database=redshift
+ 2283  ./manage.py migrate posts --database=redshift
+ 2284  ./manage.py makemigrations
+ 2285  ./manage.py migrate posts --database=redshift
+ 2286  ./manage.py makemigrations
+ 2287  ./manage.py migrate posts --database=redshift
+ 2288  ./manage.py makemigrations
+ 2289  ./manage.py migrate posts --database=redshift
+ 2290  ./manage.py makemigrations
+ 2291  ./manage.py migrate
+ 2292  ./manage.py migrate posts
+ 2293  ./manage.py makemigrations
+ 2294  ./manage.py migrate
+ 2295  ./manage.py migrate posts
+ 2296  ./manage.py makemigrations
+ 2297  ./manage.py migrate posts
+ 2298  ./manage.py migrate
+ 2299  ls
+ 2300  rm -rf db.sqlite3
+ 2301  ./manage.py runserver
+ 2302  ./manage.py migrate
+ 2303  ls
+ 2304  ./manage.py makemigrations
+ 2305  ./manage.py migrate
+ 2306  code .
+ 2307  python runitos/elfile.py
+ 2308  ./manage.py migrate
+ 2309  pip install psycopg2
+ 2310  python3
+ 2311  pip install psycopg2
+ 2312  pip3 install psycopg2
+ 2313  git checkout feature/downloable-secure-files
+ 2314  git pull origin feature/downloable-secure-files
+ 2315  code .
+ 2316  yarn start
+ 2317  yarn install
+ 2318  yarn start
+ 2319  git add -A
+ 2320  git commit -m 'change loading status was missing when downloading some reports'
+ 2321  code .
+ 2322  git status
+ 2323  rails s -p 5000
+ 2324  mongod
+ 2325  rails s -p 5000
+ 2326  git status
+ 2327  git push origin feature/eventos-calendario
+ 2328  git push origin feature/downloable-secure-files
+ 2329  git checkout feature/eventos-calendario
+ 2330  yarn start
+ 2331  git pull origin feature/eventos-calendario
+ 2332  yarn start
+ 2333  yarn install
+ 2334  yarn start
+ 2335  git status
+ 2336  git add -A
+ 2337  git commit -m 'removing some comments'
+ 2338  git push origin feature/eventos-calendario
+ 2339  rails s -p 5000
+ 2340  git pull origin development
+ 2341  git push origin feature/eventos-calendario
+ 2342  rails s -p 5000
+ 2343  code .
+ 2344  yarn start
+ 2345  cd
+ 2346  cd Documents/Oswaldinho/dufry
+ 2347  ls
+ 2348  git status
+ 2349  git stash
+ 2350  git pull origin master
+ 2351  code .
+ 2352  npm start
+ 2353  clear
+ 2354  cd
+ 2355  clear
+ 2356  code .
+ 2357  git add -A
+ 2358  git commit -m 'removed specs file'
+ 2359  git push origin feature/eventos-calendario
+ 2360  rails s -p 5000
+ 2361  yarn start
+ 2362  git checkout development
+ 2363  git pull origin development
+ 2364  git checkout master
+ 2365  git pull origin master
+ 2366  git checkout -b quickfix/RUNA-1788
+ 2367  code .
+ 2368  git status
+ 2369  git add -A
+ 2370  git status
+ 2371  git stash
+ 2372  git status
+ 2373  git checkout develop
+ 2374  git pull origin develop
+ 2375  git checkout master
+ 2376  git pull origin master
+ 2377  code .
+ 2378  rails s -p 5000
+ 2379  yarn start
+ 2380  yarn install
+ 2381  yarn start
+ 2382  git checkout -b quickfix/RUNA-1788
+ 2383  code .
+ 2384  yarn start
+ 2385  rails s -p 5000
+ 2386  cd Documents/Oswaldinho/dufry
+ 2387  ls
+ 2388  git status
+ 2389  code .
+ 2390  npm start
+ 2391  git add -A
+ 2392  git commit -m 'changed radio group to fieldsets'
+ 2393  git push origin master
+ 2394  git pull origin master
+ 2395  ls
+ 2396  git push origin master
+ 2397  npm run build
+ 2398  firebase deploy
+ 2399  git add -A
+ 2400  git commit -m 'removed consoles'
+ 2401  git push origin master
+ 2402  npm run build
+ 2403  firebase deploy
+ 2404  cd
+ 2405  cd Documents/Oswaldinho
+ 2406  ls
+ 2407  python3 -m venv djangoapp
+ 2408  cd djangoapp
+ 2409  source bin/activate
+ 2410  pip install django
+ 2411  pip install pipenv
+ 2412  deactivate
+ 2413  ls
+ 2414  çcd ..
+ 2415  cd ..
+ 2416  rm -rf djangoapp
+ 2417  ls
+ 2418  mkdir dataweb
+ 2419  cd dataweb
+ 2420  pipenv shell
+ 2421  ls
+ 2422  pipenv shell
+ 2423  pip install --upgrade pip
+ 2424  pip --version
+ 2425  brew install pipenv
+ 2426  cd Documents/Oswaldinho
+ 2427  ls
+ 2428  cd dataweb
+ 2429  pipenv shell
+ 2430  ls
+ 2431  pipenv install django
+ 2432  django-admin startproject demo
+ 2433  ls
+ 2434  rm -rf demo
+ 2435  django-admin startproject demo .
+ 2436  ls
+ 2437  code .
+ 2438  ./manage.py runserver
+ 2439  ./manage.py startapp posts
+ 2440  ./manage.py migrate
+ 2441  ./manage.py runserver
+ 2442  ./manage.py migrate
+ 2443  ./manage.py makemigrations
+ 2444  ./manage.py migrate
+ 2445  ./manage.py runserver
+ 2446  ./manage.py createsuperuser
+ 2447  ./manage.py runserver
+ 2448  ./manage.py makemigrations
+ 2449  ./manage.py migrate
+ 2450  ./manage.py runserver
+ 2451  ./manage.py makemigrations
+ 2452  ./manage.py migrate
+ 2453  ./manage.py runserver
+ 2454  ./manage.py makemigrations
+ 2455  ./manage.py migrate
+ 2456  ./manage.py runserver
+ 2457  cd ..
+ 2458  cd dataweb
+ 2459  ls
+ 2460  code .
+ 2461  rails s -p 5000
+ 2462  yarn start
+ 2463  git status
+ 2464  git checkout feature/downloable-secure-files
+ 2465  git pull origin develop
+ 2466  code .
+ 2467  git status
+ 2468  git commit -a
+ 2469  git status
+ 2470  git push origin feature/downloable-secure-files
+ 2471  yarn start
+ 2472  yarn install
+ 2473  git status
+ 2474  yarn start
+ 2475  git add -A
+ 2476  git commit -m 'removed console logs and comments'
+ 2477  git push origin feature/downloable-secure-files
+ 2478  code .
+ 2479  yarn install
+ 2480  yarn start
+ 2481  ~
+ 2482  cd saas-rails-api
+ 2483  cd ..
+ 2484  ls
+ 2485  rm -rf saas-rails-api
+ 2486  cd Documents/Runa/core/saas-rails-api
+ 2487  ls
+ 2488  git status
+ 2489  git stash
+ 2490  git status
+ 2491  yarn start
+ 2492  git status
+ 2493  git add -A
+ 2494  git commit -m 'changed backend RA'
+ 2495  git push origin feature/downloable-secure-files
+ 2496  yarn start
+ 2497  git add -A
+ 2498  git commit -m 'ya se puede descargar dispersiñon en nómina de finiquito'
+ 2499  git push origin feature/downloable-secure-files
+ 2500  git branch
+ 2501  git checkout quickfix/RUNA-1788
+ 2502  git pull origin hotfix/RUNA-807
+ 2503  code .
+ 2504  rails s -p 5000
+ 2505  yarn start
+ 2506  python3 -m venv dataenv
+ 2507  ls
+ 2508  mkdir datacourse
+ 2509  cd datacourse
+ 2510  pipenv shell
+ 2511  ls
+ 2512  pipenv install django
+ 2513  ls
+ 2514  cat Pipfile
+ 2515  django-admin startproject data
+ 2516  ls
+ 2517  cd data
+ 2518  ls
+ 2519  python manage.py
+ 2520  python manage.py runserver
+ 2521  code .
+ 2522  python manage.py startapp posts
+ 2523  python manage.py makemigrations
+ 2524  python manage.py migrate
+ 2525  python manage.py createsuperuser
+ 2526  python manage.py runserver

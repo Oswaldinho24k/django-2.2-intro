@@ -1,0 +1,14 @@
+{%include 'base.html'%}
+
+{%block content%}
+
+<h2>Lista de posts</h2>
+
+<p>Aquí van los posts</p>
+
+    {% for post in posts %}
+        <strong>{{post.title}}</strong>
+        <p>{{post.text}}</p>
+    {% endfor %}
+
+{% endblock %}
